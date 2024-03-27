@@ -1,0 +1,2 @@
+# rdperm
+Approximate Permutation Tests and Induced Order Statistics in the Regression Discontinuity Design (RD) (Canary and Kamat (2017) procedure) Use rdperm With STATA 18
