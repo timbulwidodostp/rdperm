@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rdperm': Approximate Permutation Tests and Induced Order Statistics in the Regression Discontinuity Design (RD) (Canary and Kamat (2017) procedure) Use rdperm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rdperm.ado
+f rdperm.hlp
