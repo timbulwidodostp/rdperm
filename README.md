@@ -3,6 +3,8 @@ Approximate Permutation Tests and Induced Order Statistics in the Regression Dis
 
 Permutation Tests Regression Discontinuity Design (Canary and Kamat (2017) Use rdperm With STATA 18
 
+https://www.youtube.com/watch?v=pBh1wvNbXus
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
